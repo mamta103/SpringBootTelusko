@@ -1,0 +1,9 @@
+package com.example.demo;
+
+public class Laptop {
+private int lid;
+private String brand;
+
+
+
+}

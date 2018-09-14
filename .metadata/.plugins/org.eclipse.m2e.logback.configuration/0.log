@@ -55,3 +55,213 @@
 2018-09-14 16:33:20,690 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-09-14 16:33:20,695 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-09-14 16:33:20,696 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 16:34:50,680 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:34:50,681 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 16:34:50,682 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 16:34:50,684 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:34:50,684 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 16:36:01,661 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:36:01,663 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 16:36:01,664 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 16:36:01,671 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:36:01,671 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 16:38:44,250 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:38:44,250 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 16:38:44,251 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 16:38:44,253 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:38:44,254 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 16:40:33,920 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:40:33,921 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 16:40:33,922 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 16:40:33,925 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:40:33,925 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 16:41:43,138 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:41:43,139 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 16:41:43,140 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 16:41:43,142 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:41:43,142 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 16:42:44,709 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:42:44,709 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 16:42:44,710 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 16:42:44,714 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:42:44,714 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 16:43:39,900 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:43:39,900 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 16:43:39,901 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 16:43:39,904 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:43:39,905 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 16:46:40,175 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:46:40,175 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 16:46:40,176 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 16:46:40,181 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:46:40,181 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 16:47:31,233 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:47:31,233 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 16:47:31,234 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 16:47:31,237 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:47:31,237 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 16:47:48,936 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:47:48,937 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 16:47:48,938 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 16:47:48,941 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:47:48,941 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 16:47:58,312 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:47:58,312 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 16:47:58,313 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 16:47:58,317 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:47:58,317 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 16:48:16,934 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:48:16,935 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 16:48:16,936 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 16:48:16,939 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:48:16,939 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 16:48:47,486 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:48:47,486 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 16:48:47,488 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 16:48:47,490 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:48:47,491 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 16:51:54,966 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:51:54,967 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 16:51:54,968 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 16:51:54,970 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:51:54,970 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 16:52:30,289 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:52:30,290 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 16:52:30,291 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 16:52:30,294 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 16:52:30,294 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:03:14,921 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:03:14,922 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:03:14,923 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:03:14,926 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:03:14,927 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:03:20,394 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:03:20,394 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:03:20,396 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:03:20,398 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:03:20,399 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:03:39,539 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:03:39,569 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:03:39,570 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:03:39,573 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:03:39,573 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:04:33,354 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:04:33,354 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:04:33,355 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:04:33,363 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:04:33,363 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:21:48,253 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:21:48,254 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:21:48,255 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:21:48,257 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:21:48,258 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:21:53,358 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:21:53,359 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:21:53,360 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:21:53,362 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:21:53,362 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:21:55,854 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:21:55,855 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:21:55,855 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:21:55,857 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:21:55,857 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:23:39,090 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:23:39,090 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:23:39,091 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:23:39,093 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:23:39,094 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:25:38,557 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:25:38,557 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:25:38,558 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:25:38,561 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:25:38,561 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:25:57,392 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:25:57,392 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:25:57,393 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:25:57,396 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:25:57,396 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:26:51,178 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:26:51,179 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:26:51,179 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:26:51,181 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:26:51,181 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:27:44,839 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:27:44,840 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:27:44,841 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:27:44,843 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:27:44,843 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:34:10,990 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:34:10,991 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:34:10,992 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:34:10,994 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:34:10,995 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:34:18,700 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:34:18,701 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:34:18,702 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:34:18,704 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:34:18,704 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:34:52,255 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:34:52,255 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:34:52,256 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:34:52,257 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:34:52,258 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:35:11,105 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:35:11,113 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:35:11,122 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:35:11,128 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:35:11,130 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:35:36,893 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:35:36,893 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:35:36,894 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:35:36,896 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:35:36,896 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:35:40,520 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:35:40,520 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:35:40,521 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:35:40,523 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:35:40,523 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:36:06,353 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:36:06,354 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:36:06,354 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:36:06,356 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:36:06,356 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:36:11,575 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:36:11,576 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:36:11,577 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:36:11,579 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:36:11,579 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:36:16,922 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:36:16,922 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:36:16,922 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:36:16,924 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:36:16,924 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:36:18,182 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:36:18,183 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:36:18,184 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:36:18,186 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:36:18,186 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:37:21,147 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:37:21,148 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:37:21,150 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:37:21,152 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:37:21,153 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:38:30,700 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:38:30,701 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:38:30,702 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:38:30,704 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:38:30,704 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:38:33,538 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:38:33,539 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:38:33,540 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:38:33,542 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:38:33,542 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:41:52,425 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:41:52,426 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:41:52,427 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:41:52,429 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:41:52,429 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources
+2018-09-14 17:42:04,230 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:42:04,231 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-14 17:42:04,232 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-14 17:42:04,235 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-14 17:42:04,235 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SpringBootTelusko\FirstSpringBoot_01\src\test\resources

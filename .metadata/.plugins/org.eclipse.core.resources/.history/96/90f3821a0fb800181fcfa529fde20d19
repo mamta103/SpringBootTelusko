@@ -1,0 +1,11 @@
+package com.example.demo;
+
+public class Alien {
+
+	private String aname;
+	private int aid;
+	private String tech;
+	
+	
+	
+}
