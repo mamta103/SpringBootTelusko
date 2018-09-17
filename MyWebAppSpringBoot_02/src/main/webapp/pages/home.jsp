@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>Welcome ${alienObject.aid} , ${alienObject.aname}
-	,${alienObject.tech}
+<body>Welcome ${objAlien.aid} , ${objAlien.aname}
+	,${objAlien.tech}
 </body>
 </html>
